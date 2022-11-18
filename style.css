@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-          
+
 * {
   margin: 0;
-  padding: 0; 
-} 
-
+  padding: 0;
+  }
+    
 a:hover {
   background: #6070ff;
   color: #fff;
-}    
-
+}
+    
 a:focus {
   background: #2230d2;
   color: #fff;
@@ -22,7 +22,7 @@ a:disabled {
     
 html {
   font-family: Poppins, sans-serif;
-}
+ }
     
 .blue {
   color: #6070ff;
@@ -59,17 +59,17 @@ main {
   margin: 0 auto;
   height: 40px;
   padding: 0 27px;
-    }
+}
     
 .bruw {
   font-size: 17px;
   font-weight: 700;
   line-height: 20px;
 }
-   
+    
 .menu {
   padding: 3px 5px;
- }
+}
     
 .navigation_option {
   display: none;
@@ -89,8 +89,8 @@ main {
   font-size: 50px;
   color: #253652;
   padding: 0 24px;
-}  
-
+}
+   
 .toolbar {
   width: 100%;
   height: calc(100vh - 48px);
@@ -599,67 +599,67 @@ img {
 .topic4 {
     display: flex;
     flex-direction: row;
-     }
+   }
 
 .topic4:nth-child(even) .summary {
     order: 2;
-    }
+  }
 
 .instruction {
-  margin-left: 15px;
-    }
+    margin-left: 15px;
+  }
   
 .information {
-  grid-template-columns: 1fr 1fr;
-  padding: 25px 50px;
+    grid-template-columns: 1fr 1fr;
+    padding: 25px 50px;
      }
 
 .purple_square {
-  margin-top: 60px;
-    }
+    margin-top: 60px;
+  }
 
 .portrait {
-  display: table-cell;
-  vertical-align: top;
-  width: 100%;
-    }
+    display: table-cell;
+    vertical-align: top;
+    width: 100%;
+  }
 
 .obtainer {
-  flex-direction: column;
-  align-items: flex-start;
-  width: 120px;
-  height: 120px;
-    }
+    flex-direction: column;
+    align-items: flex-start;
+    width: 120px;
+    height: 120px;
+  }
 
 .obtianer img {
-  margin-bottom: 15px;
-    }
+    margin-bottom: 15px;
+  }
 
 .name {
-  color: #fff;
-  padding: 20px;
-  margin-top: 150px;
-  background-size: contain;
-  border-top-left-radius: 70px;
-  background-repeat: no-repeat;
-  background-position: bottom -1px right -13px;
-  background-image: url("images/contact\ form\ background\ shapes.svg");
-  background-color: #6070ff;
-  display: flex;
-  flex-direction: column;
-    }
+    color: #fff;
+    padding: 20px;
+    margin-top: 150px;
+    background-size: contain;
+    border-top-left-radius: 70px;
+    background-repeat: no-repeat;
+    background-position: bottom -1px right -13px;
+    background-image: url("images/contact\ form\ background\ shapes.svg");
+    background-color: #6070ff;
+    display: flex;
+    flex-direction: column;
+  }
 
 .form {
-   display: flex;
-   background-position: initial;
-   background-size: cover;
-   justify-content: center;
-   align-items: center;
-   text-align: center;
-    }
-    
+    display: flex;
+    background-position: initial;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+  }
+       
 .details {
-   width: 500px;
-   justify-self: center;
-    }
+    width: 500px;
+    justify-self: center;
+  }
 }
