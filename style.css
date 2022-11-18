@@ -2,11 +2,13 @@
 
 * {
   margin: 0;
-  padding: 0; }
+  padding: 0; 
+}
 
-a:hover {
+a:hover{
   background: #6070ff;
-  color: #fff; }
+  color: #fff; 
+}
 
     
 a:focus {
