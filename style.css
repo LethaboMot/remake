@@ -54,7 +54,6 @@ a:disabled {
 .menu {
   padding: 3px 5px;
   font-height: 40px;
-  line-height: 20px;
 }
 
 .navigation {
@@ -82,7 +81,6 @@ a:disabled {
 main {
   padding: 0 3px;
   height: 40px;
-  padding: 0 27px;
 }
 
 /* Css Styles for headline section */
@@ -90,7 +88,7 @@ main {
 .toolbar {
   padding-top: 114px;
   height: calc(100vh - 48);
-  background-size: 100% 100%;
+  background-size: contain;
   flex-direction: column;
   align-items: flex-start;
   display: flex;
