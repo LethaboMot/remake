@@ -463,15 +463,3 @@ a:disabled:hover {
   display: table;
   width: 100%;
 }
-  
-.about_myself {
-  font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  font-size: 40px;
-  margin-bottom: 20px;
-  margin-top: 60px;
-  font-weight: 700px;
-  color: #172b4d;
-  line-height: 52px;
-  position: relative;
-} 
