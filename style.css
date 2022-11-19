@@ -455,9 +455,9 @@ a:disabled:hover {
 
 .wrapper {
   max-width: 1050px;
-  margin: 60px auto 60px;
+  margin: 60px auto;
   background-color: #fff;
-}  
+} 
 
 .inner {
   display: table;
