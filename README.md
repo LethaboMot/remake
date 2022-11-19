@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Porfolio
 Portfolio part2
 > Description of the project.
 building a portfolio using Html and CSS
