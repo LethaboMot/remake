@@ -462,9 +462,8 @@ a:disabled:hover {
 #inner {
   display: table;
   width: 100%;
-  table-layout: fixed;
 }
-
+  
 .about_myself {
   font-family: 'Popins', sans-serif;
   font-style: normal;
