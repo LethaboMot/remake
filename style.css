@@ -459,7 +459,7 @@ a:disabled:hover {
   background-color: #fff;
 }  
 
-#inner {
+.inner {
   display: table;
   width: 100%;
 }
