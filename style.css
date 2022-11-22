@@ -490,7 +490,7 @@ a:disabled:hover {
     padding: 0 50px;
   }
   .menu {
-      display: none;
+    display: none;
   }
   .navigation_option {
     display: flex;
@@ -498,8 +498,8 @@ a:disabled:hover {
     justify-self: center;
     flex-direction: row;
   }
-   .toolbar {
-    min-height: 916px;
+  .toolbar {
+    in-height: 916px;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
