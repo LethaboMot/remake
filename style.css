@@ -56,7 +56,7 @@ header.head {
   color: #fff;
   display: block;
   transition: 0.3s;
-  margin-right: 8px
+  margin-right: 8px;
 }
 
 header.head a {
@@ -249,7 +249,7 @@ main {
 
 .body {
   margin: 10px 0;
-  adding: 10px 0;
+  padding: 10px 0;
   color: #344563;
   font-family: Poppins, sans-serif;
 }
@@ -568,8 +568,8 @@ a:disabled:hover {
   }
 
   .topic2:nth-child(even) .summary {
-     order: 2;
-   }
+    order: 2;
+  }
 
   .topic3 {
     display: flex;
