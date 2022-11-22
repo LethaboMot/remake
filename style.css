@@ -118,7 +118,7 @@ main {
   margin-top: 60px;
   margin-bottom: 20px;
   font-weight: 700;
-  color: #091E42;
+  color: #091e42;
   line-height: 60px;
   position: relative;
 }
@@ -130,7 +130,6 @@ main {
   background: #fff;
   font-family: Poppins, sans-serif;
   font-style: normal;
-  line-height: 24px;
   font-size: 20px;
   line-height: 28px;
 }
@@ -270,7 +269,8 @@ main {
 
 .tapbutton {
   cursor: pointer;
-  font-size: 18px;
+  font-size: 20px;
+  margin: 4px 2px;
   margin-top: 20px;
   color: #396df2;
   padding: 10px 20px;
@@ -278,8 +278,6 @@ main {
   border-radius: 10px;
   border: 1px solid #396df2;
   text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
   transition: 0.3s;
   background-color: #fff;
 }
@@ -491,16 +489,16 @@ a:disabled:hover {
   .beginning {
       padding: 0 50px;
   }
-  .menu {
+    .menu {
       display: none;
   }
-  .navigation_option {
+     .navigation_option {
       display: flex;
       align-self: center;
       justify-self: center;
       flex-direction: row;
   }
-  .toolbar {
+     .toolbar {
       min-height: 916px;
       background-repeat: no-repeat;
       display: flex;
@@ -508,67 +506,67 @@ a:disabled:hover {
       align-items: flex;
       margin-left: 100px;
   }
-  .mid {
+     .mid {
       align-self: center;
       justify-self: center;
       max-width: 920px;
   }
-  .start {
+    .start {
       margin: 25px 100px;
   }
-  .topic {
+    .topic {
       display: flex;
       flex-direction: row;
   }
-  .topic:nth-child(even) .summary {
+    .topic:nth-child(even) .summary {
       order: 2;
   }
-  .topic2 {
+    .topic2 {
       display: flex;
       flex-direction: row;
   }
-  .topic2:nth-child(even) .summary {
+    .topic2:nth-child(even) .summary {
       order: 2;
   }
-  .topic3 {
+    .topic3 {
       display: flex;
       flex-direction: row;
   }
-  .topic3:nth-child(even) .summary {
+    .topic3:nth-child(even) .summary {
       order: 2;
   }
-   .topic4 {
+    .topic4 {
       display: flex;
       flex-direction: row;
   }
-  .topic4:nth-child(even) .summary {
+    .topic4:nth-child(even) .summary {
       order: 2;
   }
-  .instruction {
+    .instruction {
       margin-left: 15px;
   }
-  .information {
+    .information {
       grid-template-columns: 1fr 1fr;
       padding: 25px 50px;
   }
-  .purple_square {
+    .purple_square {
       margin-top: 60px;
   }
-  .portrait {
+   .portrait {
       display: table-cell;
       vertical-align: top;
       width: 100%;
   }
-  .obtainer {
+   .obtainer {
       flex-direction: column;
       align-items: flex-start;
       width: 120px;
      height: 120px;
   }
-  .obtainer img {
+    .obtainer img {
       margin-bottom: 15px;
   }
-  .name {
+    .name {
       color: #fff;
       padding: 20px;
       margin-top: 150px;
@@ -581,7 +579,7 @@ a:disabled:hover {
       display: flex;
       flex-direction: column;
   }
-  .form {
+    .form {
       display: flex;
       background-position: initial;
       background-size: cover;
@@ -589,7 +587,7 @@ a:disabled:hover {
       align-items: center;
       text-align: center;
   }
-  .details {
+    .details {
       width: 500px;
       justify-self: center;
   }
