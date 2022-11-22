@@ -34,13 +34,16 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#REPSPONSIVE desktop)
-  - [🛠 Built With](#HTML and CSS)
+- [📖 About the Project](#responsiveness)
+  - [🛠 Built With](#html and css)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started) 
-- [👥 Authors](#Lethabo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#vs code)
+  - [Prerequisites](#ide)
+  - [Install](#install)
+  - [👥 Authors](#Lethabo)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -50,13 +53,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [portfolio desktop] <a name="responsiveness"></a>
+# 📖 [your_project_name] <a name="about-project"></a>
 
-> working website.
+> Describe your project in 1 or 2 sentences.
 
 **[Portfolio]** is a...
 
-## 🛠 Built With <a name="html and css"></a>
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -101,7 +104,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://lethabomot.github.io/remake/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,35 +130,29 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/LethaboMot/remake.git
+Clone this repository to your desired folder:
 
 <!--
 Example commands:
 
 ```sh
   cd my-folder
-  git clone githttps://github.com/LethaboMot/remake.git
+  git clone https://github.com/LethaboMot/remake.git
 ```
 --->
 
+### Install
 
-
-### Run tests
-
-To run tests, run the following command:
+Install this project with:
 
 <!--
 Example command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  cd my-project
+  gem install
 ```
 --->
-
-### Deployment
-
-You can deploy this project using:
-
 <!--
 Example:
 
@@ -168,7 +165,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="Lethabo Motloung"></a>
+## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
