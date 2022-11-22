@@ -34,13 +34,13 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+- [📖 About the Project](#REPSPONSIVE desktop)
+  - [🛠 Built With](#HTML and CSS)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started) 
-- [👥 Authors](#authors)
+- [👥 Authors](#Lethabo)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -50,13 +50,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [portfolio desktop] <a name="responsiveness"></a>
 
-> Describe your project in 1 or 2 sentences.
+> working website.
 
 **[Portfolio]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="html and css"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
