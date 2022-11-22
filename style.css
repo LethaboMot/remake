@@ -501,7 +501,7 @@ a:disabled:hover {
   top: 0;
   left: 0;
   background-image: url(images/Overlay.svg);
-  overfolow-x: hidden;
+  overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
   text-align: center;
