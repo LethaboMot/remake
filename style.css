@@ -502,7 +502,6 @@ a:disabled:hover {
   }
 
   .toolbar {
-    in-height: 916px;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
