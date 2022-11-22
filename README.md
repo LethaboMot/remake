@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-Portfolio part2
+# Portfolio part2
+
 > Description of the project.
 building a portfolio using Html and CSS
 
@@ -11,7 +11,7 @@ building a portfolio using Html and CSS
 
 - I used nodejs and git for linting the project
 
-## Live Demo (if available)
+## Live Demo (Portfolio part2)
 
 [Live Demo Link](https://livedemo.com)
 
