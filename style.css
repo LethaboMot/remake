@@ -100,7 +100,6 @@ main {
 }
 
 .toolbar {
-  width: 100%;
   height: calc(100vh - 48px);
   background-image: url("images/Header\ bg@2x.svg");
   background-size: 100% 100%;
@@ -109,6 +108,7 @@ main {
   flex-direction: column;
   gap: 12px;
   border-top-left-radius: 70px;
+  margin: 0;
 }
 
 .start {
@@ -402,18 +402,15 @@ a:disabled:hover {
 }
 
 #clickin {
-  border: none;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  width: 109%;
-  margin: 20px 0;
-  font-size: 20px;
+  border: 1px solid #fff;
+  width: 100%;
+  margin: 10px 0;
+  font-size: 17px;
   padding: 10px;
   color: #172b4d;
   line-height: 20px;
-  border-radius: 10px;
+  border-radius: 8px;
+  width: 100%;
 }
 
 #clickin:focus {
@@ -425,7 +422,7 @@ a:disabled:hover {
   font-family: 'Poppins', sans-serif;
   font-size: normal;
   line-height: 20px;
-  width: 109%;
+  width: 100%;
   border-radius: 8px;
   border: 1px solid #fff;
   min-height: 140px;
@@ -506,7 +503,7 @@ a:disabled:hover {
     display: flex;
     justify-content: center;
     align-items: flex;
-    margin-left: 100px;
+    margin: 0;
   }
 
   .mid {
