@@ -7,29 +7,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <script src="scrtipt.js"></script>
-    <title>Portfolio</title>
+    <title>Popup</title>
 </head>
 
 <body>
 
     <header class="beginning">
+        <div id="slidemenu" class="popup">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a class="slidefont">Home</a>
+            <p><a class="slidefont">About</a></p>
+            <p><a class="slidefont">portfolio</a></p>
+            <p><a class="slidefont">Contact</a></p>
+
+        </div>
         <nav class="head">
-            <div id="slidemenu" class="popup">
-                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-                <a href="#">Home</a>
-                <a href="#">About</a>
-                <a href="#">portfolio</a>
-                <a href="#">Contact</a>
-            </div>
+
             <div class="bruw blue">
                 <h2>My Logo</h2>
             </div>
-            <div class="menu"><span style="font-size:30px;cursor:pointer" onclick="openNav()"><img src="images/Hamburger button.svg">
-            </div>
+            <div class="menu"><span style="font-size:30px;cursor:pointer" onclick="openNav()"><img src="images/Hamburger button.svg"></span></div>
             <div class="navigation_option">
-                <a class="#">Portfolio</a>
-                <a class="#">About</a>
-                <a class="#">Contact</a>
+                <a class="">Portfolio</a>
+                <a class="">About</a>
+                <a class="">Contact</a>
             </div>
         </nav>
     </header>
@@ -53,7 +54,7 @@
                         <a href=""><img class="astaricks" src="images/Medium.svg" alt="Meduim" /></a>
                     </li>
                     <li class="link">
-                        <a href=""><img class="astaricks" src="images/Github.svg" alt="Github" /></a>
+                        <a href=""><img class="astaricks" src="images/GitHub.svg" alt="github" /></a>
                     </li>
                     <li class="link">
                         <a href=""><img class="astaricks" src="images/Angel list.svg" alt="ANGEL LIST"></a>
@@ -229,7 +230,7 @@
         </section>
 
         <!--contact form-->
-        <section id="container">
+        <section class="container">
             <div class="name">
                 <h2 class="dubbed">Contact Me</h2>
                 <p class="form-par">
