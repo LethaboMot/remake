@@ -519,6 +519,10 @@ a:disabled:hover {
   margin-left: 50px;
 }
 
+.slidefont{
+  font-size: 30px
+}
+
 @media screen and (min-width: 768px) {
   .beginning {
     padding: 0 50px;
