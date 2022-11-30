@@ -67,7 +67,6 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://script.js.org/">script.js.js</a></li>
     <li><a <a href="https://index.html.org/">html</a><li>
     <li><a href="https://css.org/"></a></li>
   </ul>
@@ -171,6 +170,10 @@ Example:
 - [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- KEY FEATURES -->
+## KEY FEATURES
+-addition of Html
+-addition of css
 
 <!-- CONTRIBUTING -->
 
